@@ -125,8 +125,11 @@ nav ul{
     body {
         background-color: red;
     }
-    .songInfo{
-        font-size: 13px;
+        .songInfo{
+        font-size: 10px;
+    }
+    .songInfo img{
+        width: 20px;
     }
     
 }
